@@ -35,12 +35,12 @@ Anaconda is a Python distribution that contains many useful data science librari
 1. Clone the repository using [git](https://git-scm.com/downloads) (recommended to easily pull new updates)
 
 ```bash
-git clone https://github.com/GUC-DM/W2021.git
+git clone https://github.com/GUC-DM/W2022.git
 ```
 
 Pulling new notebooks/material/updates is then made easy by just calling `git pull` in a terminal inside the repository folder
 
-_Alternative option: [download the repository](https://github.com/GUC-DM/W2021/archive/main.zip) and unzip it somewhere easy to access._
+_Alternative option: [download the repository](https://github.com/GUC-DM/W2022/archive/main.zip) and unzip it somewhere easy to access._
 
 2. Launch Jupyter Notebook from the start menu; **or**, open a terminal inside the repository folder and execute the following command
 
