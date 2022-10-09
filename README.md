@@ -35,22 +35,28 @@ Anaconda is a Python distribution that contains many useful data science librari
 
 1. Download the needed material:
 
-_Option 1:_ Clone the repository using [git](https://git-scm.com/downloads) (recommended to easily pull new updates)
+	  **_Option 1:_** Clone the repository using [git](https://git-scm.com/downloads) (recommended to easily pull new updates)
 
-```bash
-git clone https://github.com/GUC-DM/W2022.git
-```
+	  ```bash
+	  git clone https://github.com/GUC-DM/W2022.git
+	  ```
 
-Pulling new notebooks/material/updates is then made easy by just calling `git pull` in a terminal inside the repository folder
+	  Pulling new notebooks/material/updates is then made easy by just calling `git pull` in a terminal inside the repository folder
 
+	<br>
+	
+	  **_Option 2:_** [Download the repository](https://github.com/GUC-DM/W2022/archive/main.zip) and unzip it somewhere easy to access.
+	
+	<br>
+	
+	
+	  **_Option 3:_** Download the needed Notebook only:
 
-_Option 2:_ [download the repository](https://github.com/GUC-DM/W2022/archive/main.zip) and unzip it somewhere easy to access.
-
-
-_Option 3:_ download the needed Notebook only:
-
-First open the Notebook and click on Raw. Then, press ctrl+s to save it as .ipynb (Note that you’ll have to manually type **.ipynb** after the file name to make this work, as files from GitHub are saved as text files as default.)
-
+	  First open the Notebook and click on Raw. Then, press ctrl+s to save it as .ipynb.
+	<br>
+	  _(Note that you’ll have to manually type **.ipynb** after the file name to make this work, as files from GitHub are saved as text files as default.)_
+	<br>
+	<br>
 
 2. Launch Jupyter Notebook from the start menu; **or**, open a terminal inside the repository folder and execute the following command
 
